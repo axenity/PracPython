@@ -1,1 +1,2 @@
-print(10 % 3)
+price = 5
+print(not price > 10)
